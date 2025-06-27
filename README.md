@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **junior software developer**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **frontend enthusiast**. building user friendly digital experience with Html, css and javascript. currently enrolled in the alx frontend engineering program. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[front end ]**
 - 🌍 Languages: **[java-script language]**
