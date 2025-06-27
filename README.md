@@ -7,10 +7,9 @@
 I'm a passionate **junior software developer**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[front end ]**
-- 🔭 Working on: **[]**
 - 🌍 Languages: **[java-script language]**
 - 📫 How to reach me: **[chigoziembah73@gmail.com]**
-- ⚡ Fun fact: **[i am very passionate]**
+- ⚡ Fun fact: **[i am passionate]**
 
 ## My Skills 🧠
 
