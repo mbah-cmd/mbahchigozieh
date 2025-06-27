@@ -1,4 +1,4 @@
-# Hi there, I'm [mbah Henry]! 👋
+# Hi there, I'm Mbah Henry! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
